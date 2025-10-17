@@ -62,6 +62,6 @@
 
 **Project Lead:** [Omanshi Kaushal](mailto:omanshikaushal2022@vitbhopal.ac.in)  
 **Development Assistance:** Figma, AI for code verification  
-**Stack:** React, Node.js, TailwindCSS, JSON-Server, EmailJS 
-**Institution:** VIT Bhopal University
+**Stack:** React, Node.js, TailwindCSS, JSON-Server, EmailJS    
+
 
