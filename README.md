@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ### 🧠 Intelligent Recipe Search
 - Search recipes by name or available ingredients.
