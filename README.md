@@ -12,7 +12,7 @@
 
 **Deployed on Vercel:** [https://food-caster.vercel.app](https://recipe-finder-rho-gilt.vercel.app/)
 
----
+--- 
 
 ## 🚀 Features 
 
