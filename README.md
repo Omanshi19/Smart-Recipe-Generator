@@ -4,7 +4,7 @@
 
 ![photo_2025-10-17 11 27 03](https://github.com/user-attachments/assets/2c630f3e-002a-4ea3-a45f-011a85caa79b)
 
----
+--- 
 
 # 🍳 Recipe Finder — Your Personal Recipe Assistant 
 
