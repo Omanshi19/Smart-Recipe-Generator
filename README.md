@@ -2,7 +2,7 @@
   
 ![photo_2025-10-17 11 27 02](https://github.com/user-attachments/assets/b62696fd-882b-4aa7-bc58-c1f9b79b27e8)
 
-![photo_2025-10-17 11 27 03](https://github.com/user-attachments/assets/2c630f3e-002a-4ea3-a45f-011a85caa79b)  
+![photo_2025-10-17 11 27 03](https://github.com/user-attachments/assets/2c630f3e-002a-4ea3-a45f-011a85caa79b)   
 
 --- 
  
