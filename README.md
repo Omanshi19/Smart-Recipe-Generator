@@ -11,7 +11,7 @@
 **Smart Recipe Generator** is a web application that helps users discover, customize, and manage recipes based on available ingredients, dietary preferences, and cooking time. It supports ingredient recognition, personalized recipe suggestions, nutrition scaling, and favorite tracking — all in a clean interface.  
 
 **Deployed on Vercel:** [https://food-caster.vercel.app](https://recipe-finder-rho-gilt.vercel.app/)
-
+ 
 --- 
 
 ## 🚀 Features  
