@@ -5,7 +5,7 @@
 ![photo_2025-10-17 11 27 03](https://github.com/user-attachments/assets/2c630f3e-002a-4ea3-a45f-011a85caa79b)  
 
 --- 
-
+ 
 # 🍳 Recipe Finder — Your Personal Recipe Assistant 
 
 **Smart Recipe Generator** is a web application that helps users discover, customize, and manage recipes based on available ingredients, dietary preferences, and cooking time. It supports ingredient recognition, personalized recipe suggestions, nutrition scaling, and favorite tracking — all in a clean interface.  
